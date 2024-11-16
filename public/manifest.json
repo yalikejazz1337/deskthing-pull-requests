@@ -1,0 +1,24 @@
+{
+  "id": "pullrequests",
+  "isAudioSource": false,
+  "isScreenSaver": false,
+  "isWebApp": true,
+  "isLocalApp": false,
+  "requires": [],
+  "label": "Deskthing Pull Requests",
+  "version": "0.9.1",
+  "version_code": "1.0",
+  "compatible_server": [
+    "9"
+  ],
+  "compatible_client": [
+    "9"
+  ],
+  "description": "Look at your currently open pull requests on github.",
+  "author": "lonelybirb_",
+  "platforms": [
+    "all"
+  ],
+  "homepage": "sigma",
+  "repository": "https://github.com/yalikejazz1337/carthing-pull-req"
+}
